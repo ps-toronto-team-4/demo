@@ -13,7 +13,7 @@ If you'd like to try out the app yourself, please follow the instructions below 
 ### Android
 
 If you're using an Android device, you can download and install the app right on your device!  
-Simply [download the apk file here](static/app.apk) and install it by selecting it in your device's file manager.
+Simply [download the apk file here](static/pigeon.apk) and install it by selecting it in your device's file manager.
 
 *NOTE*: You may not be able to install the app if your device has disabled installing apps from unknown sources. [This video](https://www.youtube.com/watch?v=vK_jgnEe_8w) shows how you can install the app if this is the case for you.
 
